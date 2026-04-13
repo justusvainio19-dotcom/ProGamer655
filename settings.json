@@ -29,13 +29,13 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "help",
+        "LEAVE THIS SERVER",
+        "just quit, im stuck here anyways."
       ]
     },
     "chat-log": true,
